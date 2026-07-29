@@ -1,5 +1,6 @@
 # Entorno virtual
 .venv/
+.venv
 
 # Python
 __pycache__/
@@ -20,3 +21,6 @@ data/
 
 # Hugging Face cache
 .cache/
+
+#Entorno con api
+.env
